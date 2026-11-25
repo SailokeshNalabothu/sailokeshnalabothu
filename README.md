@@ -1,161 +1,154 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Sai%20Lokesh%20Nalabothu&fontSize=36&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cybersecurity&descSize=14&descAlignY=55&animation=fadeIn" width="100%" alt="Sai Lokesh Nalabothu profile banner"/>
+<img src="./assets/header.svg" width="100%" alt="Sai Lokesh Nalabothu — Full-Stack Developer, Backend, Cybersecurity"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Secure+and+Scalable+Applications;Full-Stack+Development+%7C+MERN+Stack;Exploring+AI%2C+RAG+and+LLM+Engineering;Cybersecurity+%7C+Cloud+%7C+System+Design;Turning+Ideas+Into+Real-World+Products" alt="Animated developer introduction"/>
+<a href="https://github.com/SailokeshNalabothu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=48&lines=Building+secure+and+scalable+web+applications;Full-stack+development+with+the+MERN+stack;Exploring+AI%2C+RAG+and+LLM+engineering;Security-minded+backend+engineering" alt="Animated tagline"/>
+</a>
 
 <br/>
 
-<a href="https://github.com/SailokeshNalabothu">
-  <img src="https://komarev.com/ghpvc/?username=SailokeshNalabothu&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-</a>
-<a href="https://github.com/SailokeshNalabothu?tab=followers">
-  <img src="https://img.shields.io/github/followers/SailokeshNalabothu?label=FOLLOWERS&style=for-the-badge&color=2563EB" alt="GitHub followers"/>
-</a>
-<a href="https://github.com/SailokeshNalabothu?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-06B6D4?style=for-the-badge&logo=github" alt="Explore repositories"/>
-</a>
+<a href="https://sailokeshnalabothuportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/sailokeshnalabothu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/sailokeshnalabothu"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<!-- replace with your real email -->
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
+</div>
 
-<a href="https://sailokeshnalabothuportfolio.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://linkedin.com/in/sailokeshnalabothu">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<br/>
 
+<div align="center">
+  <img src="./assets/terminal.svg" width="85%" alt="Terminal card with focus areas and current status"/>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-<img align="right" alt="Coding animation" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+I'm a Computer Science student specializing in **Cyber Security**. I enjoy the parts of software users never see: authentication, API design, data modeling, and real-time systems. I try to build them so they are secure by default and easy to maintain.
 
-Hi! I'm **Sai Lokesh Nalabothu**, a Computer Science Engineering student specializing in Cyber Security.
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🏗️ Build</h3>
+      Full-stack apps with clean REST APIs, solid data models, and real-time features.
+    </td>
+    <td align="center" width="33%">
+      <h3>🔐 Secure</h3>
+      JWT, OAuth 2.0, RBAC, rate limiting, and account protection from day one.
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 Explore</h3>
+      LLM-powered features, RAG pipelines, and AI-assisted developer tools.
+    </td>
+  </tr>
+</table>
 
-I'm passionate about building modern software applications, designing scalable backend systems, exploring artificial intelligence, and developing secure digital experiences.
-
-- 🎓 B.Tech in Computer Science Engineering — Cyber Security
-- 💻 Interested in full-stack and backend engineering
-- 🤖 Exploring AI engineering, RAG, embeddings, and LLM applications
-- 🔐 Learning application security and secure system design
-- 🗄️ Interested in database engineering and performance optimization
-- ⚙️ Building REST APIs, authentication systems, and developer tools
-- ☁️ Exploring cloud infrastructure, DevOps, and distributed systems
-- 🌱 Continuously learning, experimenting, and building real-world projects
-
-<br clear="right"/>
-
----
-
-## 🧭 Technical Focus
-
-| Domain | Technologies and Concepts |
-|:--|:--|
-| 🌐 Full-Stack Development | React, Node.js, Express.js, TypeScript, REST APIs |
-| 🗄️ Database Engineering | MongoDB, PostgreSQL, MySQL, Redis |
-| 🤖 AI Engineering | LLMs, RAG, embeddings, vector search, AI APIs |
-| 🔐 Cybersecurity | JWT, OAuth 2.0, RBAC, authentication, API security |
-| ☁️ Cloud and DevOps | Docker, Git, GitHub Actions, CI/CD, AWS fundamentals |
-| 📱 Mobile Development | Android, Kotlin, Jetpack Compose, Firebase |
-| 🧪 Testing and Quality | API testing, integration testing, automated testing |
-| 🏗️ System Design | API architecture, caching, scalability, data modeling |
+**🔭 Currently:** building **DevPrep AI**, and learning RAG pipelines, PostgreSQL, and system design.  
+**🎯 Open to:** internships and entry-level roles in full-stack or backend engineering.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 DevPrep AI — AI-Powered Interview Platform
+### 🧠 DevPrep AI — Interview Preparation Platform
 
-An interview preparation platform designed to combine coding practice, mock interviews, and AI-assisted feedback in one developer-focused experience.
-
-**Key features**
-
-- 💬 Real-time communication using WebSockets
-- 💻 Code execution integration using Judge0
-- 🤖 AI-assisted interview experiences
-- 📊 Interview performance and progress analytics
-- ⚙️ REST APIs and database integration
-- 🔄 Redis integration for real-time system coordination
-
-**Tech stack:** Node.js · MongoDB · WebSockets · Redis · REST APIs · Gemini API · Judge0
+A developer-focused platform that combines coding practice, mock interviews, and AI-generated feedback in one place.
 
 <a href="https://github.com/SailokeshNalabothu/devprep-ai">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View DevPrep AI project"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SailokeshNalabothu&repo=devprep-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DevPrep AI repository card"/>
 </a>
+
+- Real-time sessions over **WebSockets**, with **Redis** for coordination
+- Code execution through the **Judge0** API
+- AI-assisted interview feedback using the **Gemini API**
+- Progress tracking and performance analytics backed by **MongoDB**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ---
 
-### 🔐 AuthX — Authentication and Authorization
+### 🔐 AuthX — Authentication and Authorization System
 
-A full-stack authentication system focused on secure identity management, access control, and account protection.
+A full-stack identity and access management project built around common real-world security requirements.
 
-**Key features**
+- **JWT**-based authentication with **role-based access control (RBAC)**
+- **Account lockout** and **rate limiting** to slow down brute-force attempts
+- **Google OAuth 2.0** sign-in
+- **OTP** verification for registration and password recovery
+- Client-side interceptors to handle authenticated requests
 
-- 🔑 JWT-based authentication architecture
-- 🛡️ Role-based access control (RBAC)
-- 🔒 Account lockout and rate limiting
-- 🔗 Google OAuth 2.0 integration
-- ✉️ OTP registration and password recovery
-- 🔄 Client-side authentication interceptors
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
-**Tech stack:** React · Node.js · Express.js · MongoDB · JWT · OAuth 2.0
+<!-- add your repo link, or swap this block for a pin card:
+<a href="https://github.com/SailokeshNalabothu/YOUR-REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SailokeshNalabothu&repo=YOUR-REPO&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</a> -->
 
 ---
 
 ### 📱 ScrollOrStudy — Android Productivity App
 
-An Android productivity application designed to help users understand distracting phone usage and develop better digital habits.
+A native Android app that shows users how they spend time on their phone and helps them build better digital habits.
 
-**Key features**
+- App usage tracking with productivity insights
+- **Biometric authentication**
+- **Firebase** integration
+- Local usage counters stored with **DataStore**
+- UI built entirely in **Jetpack Compose**
 
-- 📈 App usage tracking and productivity insights
-- 🔐 Biometric authentication
-- ☁️ Firebase integration
-- 💾 Local usage counters with DataStore
-- 📱 Native Android interface using Jetpack Compose
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Tech stack:** Kotlin · Jetpack Compose · Firebase · DataStore · Android APIs
+<!-- add your repo link or pin card here, same as AuthX -->
 
 ---
 
-## 🛠️ Languages and Technologies
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
+**Daily use**
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,kotlin,html,css&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,git,github&theme=dark" alt="Daily-use technologies"/>
 
-### Frontend and UI Development
+**Used in projects**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,figma&theme=dark" alt="Frontend development technologies"/>
+<img src="https://skillicons.dev/icons?i=redis,kotlin,androidstudio,firebase,postman&theme=dark" alt="Technologies used in projects"/>
 
-### Backend and Databases
+**Familiar with / learning**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,firebase&theme=dark" alt="Backend and database technologies"/>
-
-### Cloud, DevOps and Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,linux,jenkins,postman,vscode&theme=dark" alt="Cloud and developer tools"/>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,postgres,mysql,docker,aws,linux&theme=dark" alt="Familiar and learning technologies"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SailokeshNalabothu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&rank_icon=github" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SailokeshNalabothu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="170" alt="Top languages"/>
 
-<img src="./profile/top-langs.svg" width="49%" alt="Most used programming languages"/>
+<br/>
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=SailokeshNalabothu&theme=tokyonight&hide_border=true&background=0D1117" width="75%" alt="Contribution streak"/>
 
-<img src="https://streak-stats.demolab.com?user=SailokeshNalabothu&theme=tokyonight&hide_border=true" width="80%" alt="GitHub contribution streak"/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SailokeshNalabothu&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&custom_title=Contribution%20Graph" width="95%" alt="Contribution activity graph"/>
 
 </div>
 
@@ -166,75 +159,21 @@ An Android productivity application designed to help users understand distractin
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SailokeshNalabothu/SailokeshNalabothu/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SailokeshNalabothu/SailokeshNalabothu/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/SailokeshNalabothu/SailokeshNalabothu/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SailokeshNalabothu/SailokeshNalabothu/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SailokeshNalabothu/SailokeshNalabothu/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/SailokeshNalabothu/SailokeshNalabothu/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
 </picture>
 
 </div>
 
 ---
 
-## 🎯 Goals and Continuous Learning
+## 🤝 Let's Connect
 
-- [ ] Build production-quality full-stack applications
-- [ ] Develop practical RAG and LLM-powered applications
-- [ ] Improve system design and database optimization
-- [ ] Strengthen cybersecurity and secure coding skills
-- [ ] Contribute to open-source projects
-- [ ] Improve problem-solving and technical interview skills
-- [ ] Learn more about cloud architecture and DevOps
-- [ ] Write clean, maintainable, and well-tested code
-
----
-
-## 🤝 Connect With Me
+I'm happy to talk about backend engineering, application security, or collaborating on small projects. The quickest way to reach me is [LinkedIn](https://linkedin.com/in/sailokeshnalabothu) or my [portfolio](https://sailokeshnalabothuportfolio.netlify.app).
 
 <div align="center">
 
-<a href="https://github.com/SailokeshNalabothu">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/sailokeshnalabothu">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/sai__nalabothu">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://instagram.com/sailokeshnalabothu">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/sailokeshnalabothu">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://www.hackerrank.com/sailokeshnalabo1">
-  <img src="https://img.shields.io/badge/HackerRank-Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-<a href="https://sailokeshnalabothuportfolio.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Build with purpose. Secure by design. Improve every day.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" width="100%" alt="Profile footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
