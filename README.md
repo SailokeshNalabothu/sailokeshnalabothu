@@ -52,66 +52,55 @@ I'm a Computer Science student specializing in **Cyber Security**. I enjoy the p
 
 ## 🚀 Featured Projects
 
-### 🧠 DevPrep AI — Interview Preparation Platform
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧠 DevPrep AI</h3>
+      <p>Interview preparation platform with live coding, real-time sessions, and AI-generated feedback.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+        <img src="https://img.shields.io/badge/Judge0-1F2937?style=flat-square" alt="Judge0"/>
+      </p>
+      <a href="https://github.com/SailokeshNalabothu/devprep-ai"><img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View DevPrep AI"/></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔐 AuthX</h3>
+      <p>Full-stack authentication system with JWT, role-based access control, Google OAuth 2.0, OTP flows, and brute-force protection.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+        <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0"/>
+      </p>
+      <!-- add your repo link, then uncomment:
+      <a href="https://github.com/SailokeshNalabothu/YOUR-AUTHX-REPO"><img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View AuthX"/></a>
+      -->
+    </td>
+    <td width="33%" valign="top">
+      <h3>📱 ScrollOrStudy</h3>
+      <p>Native Android app that surfaces distracting phone usage and helps build better digital habits, with biometric login.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+        <img src="https://img.shields.io/badge/DataStore-3DDC84?style=flat-square&logo=android&logoColor=white" alt="DataStore"/>
+      </p>
+      <!-- add your repo link, then uncomment:
+      <a href="https://github.com/SailokeshNalabothu/YOUR-SCROLLORSTUDY-REPO"><img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="View ScrollOrStudy"/></a>
+      -->
+    </td>
+  </tr>
+</table>
 
-A developer-focused platform that combines coding practice, mock interviews, and AI-generated feedback in one place.
-
-<a href="https://github.com/SailokeshNalabothu/devprep-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SailokeshNalabothu&repo=devprep-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="DevPrep AI repository card"/>
-</a>
-
-- Real-time sessions over **WebSockets**, with **Redis** for coordination
-- Code execution through the **Judge0** API
-- AI-assisted interview feedback using the **Gemini API**
-- Progress tracking and performance analytics backed by **MongoDB**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
----
-
-### 🔐 AuthX — Authentication and Authorization System
-
-A full-stack identity and access management project built around common real-world security requirements.
-
-- **JWT**-based authentication with **role-based access control (RBAC)**
-- **Account lockout** and **rate limiting** to slow down brute-force attempts
-- **Google OAuth 2.0** sign-in
-- **OTP** verification for registration and password recovery
-- Client-side interceptors to handle authenticated requests
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-
-<!-- add your repo link, or swap this block for a pin card:
-<a href="https://github.com/SailokeshNalabothu/YOUR-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SailokeshNalabothu&repo=YOUR-REPO&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a> -->
-
----
-
-### 📱 ScrollOrStudy — Android Productivity App
-
-A native Android app that shows users how they spend time on their phone and helps them build better digital habits.
-
-- App usage tracking with productivity insights
-- **Biometric authentication**
-- **Firebase** integration
-- Local usage counters stored with **DataStore**
-- UI built entirely in **Jetpack Compose**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-<!-- add your repo link or pin card here, same as AuthX -->
+<div align="center">
+  <a href="https://github.com/SailokeshNalabothu?tab=repositories"><img src="https://img.shields.io/badge/Browse%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"/></a>
+  <a href="https://sailokeshnalabothuportfolio.netlify.app"><img src="https://img.shields.io/badge/See%20Full%20Case%20Studies-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio case studies"/></a>
+</div>
 
 ---
 
@@ -135,25 +124,6 @@ A native Android app that shows users how they spend time on their phone and hel
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SailokeshNalabothu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&rank_icon=github" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SailokeshNalabothu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="170" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SailokeshNalabothu&theme=tokyonight&hide_border=true&background=0D1117" width="75%" alt="Contribution streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SailokeshNalabothu&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&custom_title=Contribution%20Graph" width="95%" alt="Contribution activity graph"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -170,7 +140,24 @@ A native Android app that shows users how they spend time on their phone and hel
 
 ## 🤝 Let's Connect
 
-I'm happy to talk about backend engineering, application security, or collaborating on small projects. The quickest way to reach me is [LinkedIn](https://linkedin.com/in/sailokeshnalabothu) or my [portfolio](https://sailokeshnalabothuportfolio.netlify.app).
+<div align="center">
+
+<img src="./assets/connect-banner.svg" width="100%" alt="Let's build something together. Open to internships and entry-level roles."/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/sailokeshnalabothu"><img src="./assets/btn-linkedin.svg" height="56" alt="LinkedIn"/></a>
+<a href="https://github.com/SailokeshNalabothu"><img src="./assets/btn-github.svg" height="56" alt="GitHub"/></a>
+<a href="https://sailokeshnalabothuportfolio.netlify.app/"><img src="./assets/btn-portfolio.svg" height="56" alt="Portfolio"/></a>
+<a href="https://leetcode.com/sailokeshnalabothu"><img src="./assets/btn-leetcode.svg" height="56" alt="LeetCode"/></a>
+<!-- replace with your real email -->
+<a href="mailto:your.email@example.com"><img src="./assets/btn-email.svg" height="56" alt="Email"/></a>
+
+<br/><br/>
+
+
+
+</div>
 
 <div align="center">
 
